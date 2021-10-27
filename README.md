@@ -2,10 +2,10 @@
 - 📌 Trabalho com desenvolvimento web e automação com Node.js
 - 🧪 Curso administração, estudo desenvolvimento mobile em Flutter e estou realizando pesquisa e projetos de desenvolvimento de softwares com Node.js
 
-<div align="center">
+<div>
   <a href="https://github.com/JotaOdiceu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaOdiceu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaOdiceu&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JotaOdiceu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaOdiceu&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
