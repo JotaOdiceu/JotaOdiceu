@@ -1,11 +1,11 @@
 ### 👋 Olá, sou o Jota Odiceu
 - 📌 Trabalho com desenvolvimento web e automação com Node.js
 - 🧪 Curso administração, estudo desenvolvimento mobile em Flutter e estou realizando pesquisa e projetos de desenvolvimento de softwares com Node.js
+- 💼 Fundador da [OdiNetwork](https://odinetwork.com.br) e sócio responsável pela tecnologia do projeto Locus
 
-<div>
+<div align="center">
   <a href="https://github.com/JotaOdiceu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JotaOdiceu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaOdiceu&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaOdiceu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,8 +19,7 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
-#
-
+### 📨 Contato
 <div style="display: inline_block"><br>
   <a href="https://linkedin.com/in/jotaodiceu" target="_blank"><img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   <a href="https://discord.gg/pngj3MU" target="_blank"><img align="center" alt="Discord" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">
