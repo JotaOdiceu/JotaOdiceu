@@ -21,6 +21,6 @@
 
 ### 📨 Contato
 <div style="display: inline_block"><br>
-  <a href="https://linkedin.com/in/jotaodiceu" target="_blank"><img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  <a href="https://discord.gg/pngj3MU" target="_blank"><img align="center" alt="Discord" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">
+  <a href="https://linkedin.com/in/jotaodiceu" rel="noopener noreferrer" target="_blank"><img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <a href="https://discord.gg/eD6aS9bbS5" rel="noopener noreferrer" target="_blank"><img align="center" alt="Discord" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">
 </div>
