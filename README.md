@@ -1,6 +1,6 @@
 ### 👋 Olá, sou o Jota Odiceu
 - 📌 Trabalho com desenvolvimento web e automação com Node.js
-- 📚 Acadêmico em administração, estudo desenvolvimento mobile em React Native e estou realizando pesquisa e projetos de desenvolvimento de softwares com Node.js
+- 📚 Acadêmico de bacharelado em administração pela Uniasselvi
 - 🧪 Estou sempre estudando e aprimorando minhas habilidades em programação, no momento estudo e tenho projetos em desenvolvimento mobile com React Native (nível iniciante) e desenvolvimento de softwares com Node.js (nível intermediário)
 - 📜 Possuo algumas certificações em nuvem, uma delas é a Oracle Cloud Infrastructure Foundations 2021 Associate
 - 💼 Fundador da [OdiNetwork](https://odinetwork.com.br) e sócio responsável pela tecnologia do projeto Locus
